@@ -212,5 +212,5 @@
 
 
 ## AWS
-Note: I have migrated AWS RBD PostgreSQL to Neon PostgreSQL beacuse just of cost. And, for one database instace neon is free. 
+Note: I have migrated AWS RBD PostgreSQL to Neon PostgreSQL just beacuse of cost. As for one db instance, neon is free. 
 
