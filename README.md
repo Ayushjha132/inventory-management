@@ -209,3 +209,8 @@
 
 #### some dev commands
     nodemon @types/cors @types/express @types/
+
+
+## AWS
+Note: I have migrated AWS RBD PostgreSQL to Neon PostgreSQL beacuse just of cost. And, for one database instace neon is free. 
+
